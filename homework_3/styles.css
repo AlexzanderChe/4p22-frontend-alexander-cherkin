@@ -2,35 +2,45 @@
   width: 600px;
   border-collapse: collapse;
 }
+
 .custom-table td {
   padding: 16px;
   border: 1px solid black;
 }
+
 .text-right {
   text-align: right;
 }
+
 .yellow-bg {
   background-color: yellow;
 }
+
 .green-bg {
   background-color: green;
 }
+
 .purple-bg {
   background-color: purple;
 }
+
 .pink-bg {
   background-color: pink;
 }
+
 .green-yellow-bg {
   background: linear-gradient(21.8deg, green 50%, yellow 50%);
 }
+
 .chemistry-element {
   display: flex;
   column-gap: 20px;
 }
+
 .chemistry-element__number {
   margin-top: 5px;
 }
+
 .pink-yellow-bg {
   background: linear-gradient(21deg, pink 50%, yellow 50%);
 }
