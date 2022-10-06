@@ -2,7 +2,7 @@
   font-family: 'KTF Jermilov Trial Stencil';
   src: url('KTFJermilovTrial-Stencil.woff2') format('woff2'),
       url('KTFJermilovTrial-Stencil.woff') format('woff');
-  font-weight: 400;
+  font-weight: normal;
   font-style: normal;
   font-display: swap;
 }
@@ -11,7 +11,7 @@
   font-family: 'KTF Jermilov Trial Stencil';
   src: url('KTFJermilovTrial-Stencil.woff2') format('woff2'),
       url('KTFJermilovTrial-Stencil.woff') format('woff');
-  font-weight: 700;
+  font-weight: normal;
   font-style: normal;
   font-display: swap;
 }
