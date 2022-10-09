@@ -1,0 +1,129 @@
+* {
+  box-sizing: border-box;
+}
+
+.common-header__address {
+  position: fixed;
+  width: 1440px;
+  height: 90px;
+  left: 150px;
+  top: 0px;
+  background: #590BFF;
+}
+
+.common-header-address__h1 {
+  position: absolute;
+  width: 403px;
+  height: 63px;
+  left: 28px;
+  top: 6px;
+  margin: 0;
+  font-family: ;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 54px;
+  line-height: 63px;
+  color: #FFFFFF;
+}
+
+.common-main-address {
+  width: 1439px;
+  position: fixed;
+  margin: 0px 0px 0px 0px;
+  height: 90vh;
+  background: #FFFFFF;
+  top: 89px;
+  left: 150px;
+}
+
+.common-aside-address {
+  position: relative;
+  width: 266px;
+  height: 457px;
+  top: 47px;
+  border-right: 3px solid #b7b1b1;
+
+}
+
+.common-aside-address__h2 {
+  position: absolute;
+  left: 27px;
+  font-family: ;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 28px;
+  line-height: 33px;
+
+}
+
+.common-aside-address__container {
+  position: absolute;
+  left: 14px;
+  top: 64px;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.common-aside-address-container__lincs {
+  margin: 14px;
+}
+
+.common-aside-address-container-links__orange {
+  font-family: ;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 28px;
+  text-decoration-line: underline;
+  color: #ff8000;
+}
+
+.common-section {
+  position: absolute;
+  width: 1145px;
+  height: 699px;
+  left: 293px;
+  top: 55px;
+}
+
+.common-section__scroll {
+  position: sticky;
+  overflow-y: scroll;
+  width: 1145px;
+  height: 796px;
+  top: 0px;
+  left: 0px;
+}
+
+.common-section__letter {
+  width: 1123px;
+  height: 41px;
+  position: sticky;
+  left: 469px;
+  top: 0px;
+  margin: 0;
+  color: #FFFFFF;
+  font-family: ;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 38px;
+  line-height: 39px;
+  padding-left: 11px;
+  background: #590BFF;
+}
+
+.common-section__list {
+  list-style-type: none;
+  width: 132px;
+  height: max-content;
+  left: 13px;
+  top: 54px;
+  padding-left: 19px;
+  padding-top: 61px;
+  margin: 0;
+  font-family: ;
+  font-weight: 400;
+  font-size: 28px;
+  line-height: 33px;
+}
