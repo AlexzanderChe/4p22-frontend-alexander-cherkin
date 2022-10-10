@@ -18,7 +18,7 @@
   left: 28px;
   top: 6px;
   margin: 0;
-  font-family: sans-serif;
+  font-family: "Roboto";
   font-style: normal;
   font-weight: 400;
   font-size: 54px;
@@ -48,7 +48,7 @@
 .common-aside-address__h2 {
   position: absolute;
   left: 27px;
-  font-family: sans-serif;
+  font-family: "Roboto";
   font-style: normal;
   font-weight: 400;
   font-size: 28px;
@@ -70,7 +70,7 @@
 }
 
 .common-aside-address-container-links__orange {
-  font-family: sans-serif;
+  font-family: "Roboto";
   font-style: normal;
   font-weight: 400;
   font-size: 24px;
@@ -104,7 +104,7 @@
   top: 0px;
   margin: 0;
   color: #FFFFFF;
-  font-family: sans-serif;
+  font-family: "Roboto";
   font-style: normal;
   font-weight: 400;
   font-size: 38px;
@@ -122,7 +122,7 @@
   padding-left: 19px;
   padding-top: 61px;
   margin: 0;
-  font-family: sans-serif;
+  font-family: "Roboto";
   font-weight: 400;
   font-size: 28px;
   line-height: 33px;
