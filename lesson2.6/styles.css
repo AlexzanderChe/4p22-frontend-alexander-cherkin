@@ -1,0 +1,21 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  height: 100%;
+  width: 50%;
+}
+
+.box {
+  width: 100px;
+  height: 100px;
+  background: red;
+}
+
+.box-persantage {
+  width: 50%;
+  height: 50%;
+  background: gray;
+}
